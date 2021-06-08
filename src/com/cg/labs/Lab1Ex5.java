@@ -1,7 +1,7 @@
 package com.cg.labs;
 
 import java.util.Scanner;
-
+// Prigarm working fine
 public class Lab1Ex5 {
 	public static int calculateSum(int n) {
 

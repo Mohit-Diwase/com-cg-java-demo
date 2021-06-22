@@ -26,6 +26,6 @@ public class Lab1Ex8 {
             System.out.println(n + " is a power of 2");
         else
             System.out.println(n + " isnot a power of 2");
-        
+        sc.close();
     }   
 }
